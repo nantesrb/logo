@@ -1,9 +1,5 @@
 # Nantes.rb - Logo
 
-## SVG sources
-
-![Logo SVG](/src/vector/logo.svg?raw=true "Logo SVG")
-
 ## Web PNG Sources
 
 ![Logo 16](/src/web/logo-16.png?raw=true "Logo 16")
@@ -16,3 +12,6 @@
 
 ![Logo 256x256](/src/web/logo-256.png?raw=true "Logo 256")
 
+## SVG sources
+
+[SVG Logo sources](/src/vector/logo.svg)

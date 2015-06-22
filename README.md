@@ -1,4 +1,4 @@
-# Nantes.rb - Logo by Julien Breux
+# Nantes.rb - Logo
 
 ## SVG sources
 
